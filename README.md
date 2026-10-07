@@ -5,7 +5,7 @@
 ## Použitá data
 - <Název datové sady>: [URL na datazapad.cz], CC BY 4.0 <(upraveno), pokud jste data měnili>
 
-Poskytovatele a licenci najdete u každé datové sady v [Katalogu otevřených dat Karlovarského kraje](https://www.datazapad.cz/search?collection=dataset&layout=grid).
+Licenci najdete u každé datové sady v [Katalogu otevřených dat Karlovarského kraje](https://www.datazapad.cz/search?collection=dataset&layout=grid).
 
 ## Použití AI
 <Které nástroje AI jste použili a k čemu.>
