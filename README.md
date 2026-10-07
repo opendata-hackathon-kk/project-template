@@ -3,7 +3,7 @@
 <Co projekt dělá a komu pomáhá. 2–3 věty.>
 
 ## Použitá data
-- <Název datové sady>: [poskytovatel], [URL na datazapad.cz], CC BY 4.0 <(upraveno), pokud jste data měnili>
+- <Název datové sady>: [URL na datazapad.cz], CC BY 4.0 <(upraveno), pokud jste data měnili>
 
 Poskytovatele a licenci najdete u každé datové sady v [Katalogu otevřených dat Karlovarského kraje](https://www.datazapad.cz/search?collection=dataset&layout=grid).
 
